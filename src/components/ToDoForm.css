@@ -40,7 +40,7 @@
   
   /* Orange and white gradient background colour*/
   .gradient-background {
-    background: linear-gradient(135deg, #e18a09, #ffffff);
+    background: linear-gradient(150deg, rgb(243, 66, 7), #ffffff);
     height: 30vh;
     display: flex;
     justify-content: center;
@@ -51,7 +51,7 @@
   .icon {
     font-size: 20px;
     margin-right: 5px;
-    color: #333; /* Icon colour */
+    color: #ded6d6; /* Icon colour */
   }
 
   .wrap-btn {
